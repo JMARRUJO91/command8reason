@@ -26,7 +26,7 @@ Find your *Propellerhead Software* folder and copy this whole folder structure i
 # Preparing the Command 8
 This mapping works almost out of the box with a default configured Command 8 running in Stand-alone mode. There are however a few buttons I've changed from their default mapping, simply because they weren't assigned a midi CC value out of the box.
 
-In general, the Command 8 is set up by default so each channelels fader, knob and buttons are sending the same CC-value over the whole controller, but on it's own respective midi channel. For example the Faders are all sending a CC value of 7 on midi channel 1-8. I've honed this same setup when adding CC-values to unassigned buttons as much as possible. The exception is the top row of buttons that are used for global purposes.
+In general, the Command 8 is set up by default so each channels fader, knob and buttons are sending the same CC-value over the whole controller, but on it's own respective midi channel. For example the Faders are all sending a CC value of 7 on midi channel 1-8. I've honed this same setup when adding CC-values to unassigned buttons as much as possible. The exception is the top row of buttons that are used for global purposes.
 
 |Function|Midi CC|Midi channel|
 |---|---|---
