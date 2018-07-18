@@ -1,0 +1,57 @@
+Propellerhead Remote Mapping File					
+File Format Version	1.0.0				
+Control Surface Manufacturer	Digidesign				
+Control Surface Model	Command8				
+Map Version	1.0.0				
+					
+Scope	Propellerheads	Reason Master Section			
+// Control Surface Item	Key	Remotable Item	Scale	Mode	Groups
+Map	Fader 1		Channel 1 Level	
+Map	Fader 2		Channel 2 Level	
+Map	Fader 3		Channel 3 Level	
+Map	Fader 4		Channel 4 Level	
+Map	Fader 5		Channel 5 Level	
+Map	Fader 6		Channel 6 Level	
+Map	Fader 7		Channel 7 Level	
+Map	Fader 8		Channel 8 Level	
+
+Map	Rotary 1		Channel 1 Input Gain	
+Map	Rotary 2		Channel 2 Input Gain	
+Map	Rotary 3		Channel 3 Input Gain	
+Map	Rotary 4		Channel 4 Input Gain	
+Map	Rotary 5		Channel 5 Input Gain	
+Map	Rotary 6		Channel 6 Input Gain	
+Map	Rotary 7		Channel 7 Input Gain	
+Map	Rotary 8		Channel 8 Input Gain	
+
+Map	Solo 1		Channel 1 Solo	
+Map	Solo 2		Channel 2 Solo	
+Map	Solo 3		Channel 3 Solo	
+Map	Solo 4		Channel 4 Solo	
+Map	Solo 5		Channel 5 Solo	
+Map	Solo 6		Channel 6 Solo	
+Map	Solo 7		Channel 7 Solo	
+Map	Solo 8		Channel 8 Solo
+
+Map	Mute 1		Channel 1 Mute	
+Map	Mute 2		Channel 2 Mute	
+Map	Mute 3		Channel 3 Mute	
+Map	Mute 4		Channel 4 Mute	
+Map	Mute 5		Channel 5 Mute	
+Map	Mute 6		Channel 6 Mute	
+Map	Mute 7		Channel 7 Mute	
+Map	Mute 8		Channel 8 Mute
+
+Map	EQ 1		Channel 1 EQ On	
+Map	EQ 2		Channel 2 EQ On	
+Map	EQ 3		Channel 3 EQ On	
+Map	EQ 4		Channel 4 EQ On	
+Map	EQ 5		Channel 5 EQ On	
+Map	EQ 6		Channel 6 EQ On	
+Map	EQ 7		Channel 7 EQ On	
+Map	EQ 8		Channel 8 EQ On
+
+Map	Bank Right Trig		Next 8 Remote Base Channel
+Map	Bank Left Trig		Previous 8 Remote Base Channel
+Map	Channel Right Trig		Next Remote Base Channel
+Map	Channel Left Trig		Previous Remote Base Channel

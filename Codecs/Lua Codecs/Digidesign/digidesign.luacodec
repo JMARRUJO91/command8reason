@@ -1,0 +1,13 @@
+version={1,0,0}
+
+function remote_supported_control_surfaces()
+	local surfaces =
+		{
+			{ manufacturer="Digidesign", model="Command8",
+				source="command8codec.lua", picture="command8.png",
+				in_ports={{description="Input"}}, out_ports={{description="Output"}},
+				has_keyboard=false,
+				setup_info_text="To use the Command 8 with Remote select Stand Alone operating mode. (Button next to MIDI LEDs)" },
+		}
+	return surfaces
+end
